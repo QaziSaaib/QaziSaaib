@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QaziSaaib
 - 👀 I’m interested in frontend developement and Web Design.
 - 🌱 I’m currently learning Javascript and improving my HTML&CSS skills. Also I have started learning DSA as well.
-- 💞️ I’m looking to collaborate on anything related on HTML,CSS and Javascript.
+- 💞️ I’m looking to collaborate on anything related to HTML,CSS and Javascript.
 - 📫 How to reach me: email:qazisaaib007@gmail.com,twitter:@saaib_q
 
 <!---
